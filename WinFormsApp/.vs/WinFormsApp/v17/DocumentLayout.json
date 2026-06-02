@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training_Shifat\\WinFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B37656-5D67-427C-A49D-42275DB07B3C}|WinForms\\WinForms.csproj|c:\\training_shifat\\winformsapp\\winforms\\xtrareport1.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form",
+      "RelativeMoniker": "D:0:0:{E3B37656-5D67-427C-A49D-42275DB07B3C}|WinForms\\WinForms.csproj|solutionrelative:winforms\\xtrareport1.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XtraReport1.cs [Design]",
+              "DocumentMoniker": "C:\\Training_Shifat\\WinFormsApp\\WinForms\\XtraReport1.cs",
+              "RelativeDocumentMoniker": "WinForms\\XtraReport1.cs",
+              "ToolTip": "C:\\Training_Shifat\\WinFormsApp\\WinForms\\XtraReport1.cs [Design]",
+              "RelativeToolTip": "WinForms\\XtraReport1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:21:21.764Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
