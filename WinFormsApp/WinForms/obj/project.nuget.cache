@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LdQTDHEc/dU=",
+  "dgSpecHash": "ylgen2NOwB8=",
   "success": true,
-  "projectFilePath": "C:\\Training_Shifat\\WinFormsApp\\WinForms\\WinForms.csproj",
+  "projectFilePath": "C:\\Training_Shifat\\DEV-Express-Reporting\\WinFormsApp\\WinForms\\WinForms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT User\\.nuget\\packages\\devexpress.charts\\25.2.7\\devexpress.charts.25.2.7.nupkg.sha512",
     "C:\\Users\\IT User\\.nuget\\packages\\devexpress.charts.core\\25.2.7\\devexpress.charts.core.25.2.7.nupkg.sha512",

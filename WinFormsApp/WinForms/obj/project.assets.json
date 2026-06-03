@@ -3022,11 +3022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training_Shifat\\WinFormsApp\\WinForms\\WinForms.csproj",
+      "projectUniqueName": "C:\\Training_Shifat\\DEV-Express-Reporting\\WinFormsApp\\WinForms\\WinForms.csproj",
       "projectName": "WinForms",
-      "projectPath": "C:\\Training_Shifat\\WinFormsApp\\WinForms\\WinForms.csproj",
+      "projectPath": "C:\\Training_Shifat\\DEV-Express-Reporting\\WinFormsApp\\WinForms\\WinForms.csproj",
       "packagesPath": "C:\\Users\\IT User\\.nuget\\packages\\",
-      "outputPath": "C:\\Training_Shifat\\WinFormsApp\\WinForms\\obj\\",
+      "outputPath": "C:\\Training_Shifat\\DEV-Express-Reporting\\WinFormsApp\\WinForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 25.2\\Components\\Offline Packages",
