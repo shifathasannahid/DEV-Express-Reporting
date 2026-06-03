@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training_Shifat\\Pioneer Denim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|c:\\training_shifat\\pioneer denim\\jobcard\\jobcardreport.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form",
+      "RelativeMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|solutionrelative:jobcard\\jobcardreport.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobCardReport.cs [Design]",
+              "DocumentMoniker": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\JobCardReport.cs",
+              "RelativeDocumentMoniker": "JobCard\\JobCardReport.cs",
+              "ToolTip": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\JobCardReport.cs [Design]",
+              "RelativeToolTip": "JobCard\\JobCardReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T10:37:02.283Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

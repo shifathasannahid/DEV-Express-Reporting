@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training_Shifat\\Pioneer Denim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|c:\\training_shifat\\pioneer denim\\jobcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|solutionrelative:jobcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|c:\\training_shifat\\pioneer denim\\jobcard\\jobcardreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|solutionrelative:jobcard\\jobcardreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|c:\\training_shifat\\pioneer denim\\jobcard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|solutionrelative:jobcard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|c:\\training_shifat\\pioneer denim\\jobcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|solutionrelative:jobcard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|c:\\training_shifat\\pioneer denim\\jobcard\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|solutionrelative:jobcard\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|c:\\training_shifat\\pioneer denim\\jobcard\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|solutionrelative:jobcard\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|c:\\training_shifat\\pioneer denim\\jobcard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|solutionrelative:jobcard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|c:\\training_shifat\\pioneer denim\\jobcard\\jobcardreport.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0A02D7EF-F2A6-4C2D-812E-B9AB942685CD}|JobCard\\JobCard.csproj|solutionrelative:jobcard\\jobcardreport.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\Program.cs",
+              "RelativeDocumentMoniker": "JobCard\\Program.cs",
+              "ToolTip": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\Program.cs",
+              "RelativeToolTip": "JobCard\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T10:23:54.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobCardReport.Designer.cs",
+              "DocumentMoniker": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\JobCardReport.Designer.cs",
+              "RelativeDocumentMoniker": "JobCard\\JobCardReport.Designer.cs",
+              "ToolTip": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\JobCardReport.Designer.cs",
+              "RelativeToolTip": "JobCard\\JobCardReport.Designer.cs",
+              "ViewState": "AgIAAPwBAAAAAAAAAAAiwBYCAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T10:22:41.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\Form1.cs",
+              "RelativeDocumentMoniker": "JobCard\\Form1.cs",
+              "ToolTip": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\Form1.cs",
+              "RelativeToolTip": "JobCard\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T10:16:25.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\Form1.cs",
+              "RelativeDocumentMoniker": "JobCard\\Form1.cs",
+              "ToolTip": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\Form1.cs [Design]",
+              "RelativeToolTip": "JobCard\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T10:15:09.384Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "JobCard\\Form1.Designer.cs",
+              "ToolTip": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\Form1.Designer.cs",
+              "RelativeToolTip": "JobCard\\Form1.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T10:13:39.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\Form1.resx",
+              "RelativeDocumentMoniker": "JobCard\\Form1.resx",
+              "ToolTip": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\Form1.resx",
+              "RelativeToolTip": "JobCard\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-03T10:13:51.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\appsettings.json",
+              "RelativeDocumentMoniker": "JobCard\\appsettings.json",
+              "ToolTip": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\appsettings.json",
+              "RelativeToolTip": "JobCard\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-03T07:01:50.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobCardReport.resx",
+              "DocumentMoniker": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\JobCardReport.resx",
+              "RelativeDocumentMoniker": "JobCard\\JobCardReport.resx",
+              "ToolTip": "C:\\Training_Shifat\\Pioneer Denim\\JobCard\\JobCardReport.resx",
+              "RelativeToolTip": "JobCard\\JobCardReport.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-03T06:59:44.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
